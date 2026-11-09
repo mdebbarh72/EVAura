@@ -1,0 +1,9 @@
+scikit-learn
+scipy
+xgboost
+numpy
+pandas 
+streamlit
+apache-airflow
+matplotlib
+seaborn

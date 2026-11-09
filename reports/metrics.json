@@ -1,0 +1,29 @@
+{
+  "model_name": "Tuned Logistic Regression",
+  "accuracy": 0.758,
+  "macro_f1": 0.7571,
+  "weighted_f1": 0.7576,
+  "macro_precision": 0.7568,
+  "macro_recall": 0.7575,
+  "roc_auc": 0.9109,
+  "class_metrics": {
+    "Low": {
+      "precision": 0.83,
+      "recall": 0.83,
+      "f1": 0.83,
+      "support": 165
+    },
+    "Medium": {
+      "precision": 0.638,
+      "recall": 0.63,
+      "f1": 0.634,
+      "support": 165
+    },
+    "High": {
+      "precision": 0.807,
+      "recall": 0.812,
+      "f1": 0.809,
+      "support": 170
+    }
+  }
+}

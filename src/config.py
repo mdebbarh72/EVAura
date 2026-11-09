@@ -1,0 +1,25 @@
+from pathlib import Path
+ROOT_DIR = Path(__file__).resolve().parents[1]
+DATA_DIR = ROOT_DIR / 'data'
+RAW_DATA_PATH = DATA_DIR / 'raw' / 'smh_raw.csv'
+PROCESSED_DATA_DIR = DATA_DIR / 'processed'
+INTERIM_DATA_DIR = DATA_DIR / 'interim'
+MODELS_DIR = ROOT_DIR / 'models'
+REPORTS_DIR = ROOT_DIR / 'reports'
+FIGURES_DIR = REPORTS_DIR / 'figures'
+RANDOM_STATE = 42
+IDENTIFIER = 'Student_ID'
+TARGET_COL = 'Mental_Health_Risk'
+TARGET_NAMES = ['Low', 'Medium', 'High']
+TARGET_MAPPING = {'Low': 0, 'Medium': 1, 'High': 2}
+TARGET_INVERSE_MAPPING = {0: 'Low', 1: 'Medium', 2: 'High'}
+NUM_CONT_COLS = ['Age', 'Sleep_Hours', 'Study_Hours_Per_Week', 'GPA', 'Social_Media_Hours', 'Screen_Time_Hours', 'Attendance_Rate']
+NUM_DISC_COLS = ['Year_of_Study', 'Financial_Stress', 'Family_Support']
+ORDINAL_COLS = ['Physical_Activity', 'Diet_Quality']
+ORDINAL_ORDERS = {'Physical_Activity': ['Low', 'Moderate', 'High'], 'Diet_Quality': ['Poor', 'Average', 'Good']}
+NOMINAL_COLS = ['Gender']
+BINARY_COLS = ['Part_Time_Job', 'Previous_Mental_Health_History']
+OUTLIER_IQR_FACTOR = 1.5
+VARIANCE_THRESHOLD = 0.02
+CORR_THRESHOLD = 0.75
+TARGET_CORR_THRESHOLD = 0.05

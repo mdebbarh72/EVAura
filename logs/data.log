@@ -1,0 +1,131 @@
+2026-11-10 17:00:35 | data_loader | INFO  raw data loaded successfully 
+2026-11-10 17:00:44 | data_loader | INFO  raw data loaded successfully 
+2026-11-10 17:01:07 | data_loader | INFO  raw data loaded successfully 
+2026-11-10 17:01:35 | data_loader | INFO  raw data loaded successfully 
+2026-11-10 17:02:29 | data_loader | INFO  raw data loaded successfully 
+2026-11-10 17:02:51 | data_loader | INFO  raw data loaded successfully 
+2026-11-10 17:03:38 | data_loader | INFO  raw data loaded successfully 
+2026-11-10 17:06:12 | data_loader | INFO  raw data loaded successfully 
+2026-11-10 17:06:21 | data_loader | INFO  raw data loaded successfully 
+2026-11-10 17:06:51 | data_loader | INFO  raw data loaded successfully 
+2026-11-10 17:18:58 | data_loader | INFO  raw data loaded successfully 
+2026-11-10 17:18:59 | data_loader | INFO  train_features data saved successfully 
+2026-11-10 17:18:59 | data_loader | INFO  test_features data saved successfully 
+2026-11-10 17:18:59 | data_loader | INFO  train_target data saved successfully 
+2026-11-10 17:18:59 | data_loader | INFO  test_target data saved successfully 
+2026-11-11 14:10:26 | data_loader | INFO  train_features data loaded successfully 
+2026-11-11 14:11:12 | data_loader | INFO  train_features data loaded successfully 
+2026-11-11 14:11:12 | data_loader | INFO  test_features data loaded successfully 
+2026-11-11 14:11:44 | data_loader | INFO  train_features data loaded successfully 
+2026-11-11 14:11:44 | data_loader | INFO  test_features data loaded successfully 
+2026-11-11 14:11:44 | data_loader | INFO  train_target data loaded successfully 
+2026-11-11 14:12:13 | data_loader | INFO  train_features data loaded successfully 
+2026-11-11 14:12:13 | data_loader | INFO  test_features data loaded successfully 
+2026-11-11 14:12:13 | data_loader | INFO  train_target data loaded successfully 
+2026-11-11 14:12:13 | data_loader | INFO  test_target data loaded successfully 
+2026-11-11 14:41:40 | data_loader | INFO  train_features data loaded successfully 
+2026-11-11 14:41:40 | data_loader | INFO  test_features data loaded successfully 
+2026-11-11 14:41:40 | data_loader | INFO  train_target data loaded successfully 
+2026-11-11 14:41:40 | data_loader | INFO  test_target data loaded successfully 
+2026-11-11 16:42:40 | data_loader | INFO  train_features data loaded successfully 
+2026-11-11 16:42:40 | data_loader | INFO  train_target data loaded successfully 
+2026-11-11 16:42:40 | data_loader | INFO  test_features data loaded successfully 
+2026-11-11 16:42:40 | data_loader | INFO  test_target data loaded successfully 
+2026-11-11 16:43:05 | data_loader | INFO  train_features data loaded successfully 
+2026-11-11 16:43:05 | data_loader | INFO  train_target data loaded successfully 
+2026-11-11 16:44:42 | data_loader | INFO  train_features data loaded successfully 
+2026-11-11 16:44:42 | data_loader | INFO  train_target data loaded successfully 
+2026-11-11 16:45:12 | data_loader | INFO  train_features data loaded successfully 
+2026-11-11 16:45:12 | data_loader | INFO  train_target data loaded successfully 
+2026-11-11 16:45:12 | data_loader | INFO  test_features data loaded successfully 
+2026-11-11 16:45:12 | data_loader | INFO  test_target data loaded successfully 
+2026-11-11 16:46:56 | data_loader | INFO  train_features data loaded successfully 
+2026-11-11 16:46:56 | data_loader | INFO  test_features data loaded successfully 
+2026-11-11 16:46:56 | data_loader | INFO  train_target data loaded successfully 
+2026-11-11 16:46:56 | data_loader | INFO  test_target data loaded successfully 
+2026-11-11 16:48:43 | data_loader | INFO  train_features data loaded successfully 
+2026-11-11 16:48:43 | data_loader | INFO  test_features data loaded successfully 
+2026-11-11 16:48:43 | data_loader | INFO  train_target data loaded successfully 
+2026-11-11 16:48:43 | data_loader | INFO  test_target data loaded successfully 
+2026-11-11 16:50:54 | data_loader | INFO  test_features data loaded successfully 
+2026-11-11 16:51:23 | data_loader | INFO  test_features data loaded successfully 
+2026-11-12 09:50:03 | data_loader | INFO  train_features data loaded successfully 
+2026-11-12 09:50:03 | data_loader | INFO  train_target data loaded successfully 
+2026-11-12 09:50:03 | data_loader | INFO  test_features data loaded successfully 
+2026-11-12 09:50:03 | data_loader | INFO  test_target data loaded successfully 
+2026-11-12 14:28:12 | data_loader | INFO  raw data loaded successfully 
+2026-11-13 06:47:53 | data_loader | INFO  raw data loaded successfully 
+2026-11-13 06:48:09 | data_loader | INFO  raw data loaded successfully 
+2026-11-13 06:54:09 | clean_data | INFO  Dropped identifier column: 'Student_ID' 
+2026-11-13 06:54:09 | clean_data | INFO  Standardized text casing on 2 categorical columns 
+2026-11-13 06:54:09 | clean_data | INFO  Replaced 2 impossible values (Social Media > Screen Time) with NaN 
+2026-11-13 06:54:09 | clean_data | INFO  Dropped identifier column: 'Student_ID' 
+2026-11-13 06:54:09 | clean_data | INFO  Standardized text casing on 2 categorical columns 
+2026-11-13 06:54:09 | clean_data | INFO  Replaced 2 impossible values (Social Media > Screen Time) with NaN 
+2026-11-13 06:54:09 | clean_data | INFO  Dropped identifier column: 'Student_ID' 
+2026-11-13 06:54:09 | clean_data | INFO  Standardized text casing on 2 categorical columns 
+2026-11-13 06:54:09 | clean_data | INFO  Replaced 2 impossible values (Social Media > Screen Time) with NaN 
+2026-11-13 06:54:09 | clean_data | INFO  Dropped identifier column: 'Student_ID' 
+2026-11-13 06:54:09 | clean_data | INFO  Standardized text casing on 2 categorical columns 
+2026-11-13 06:54:09 | clean_data | INFO  Replaced 2 impossible values (Social Media > Screen Time) with NaN 
+2026-11-13 06:54:38 | clean_data | INFO  Dropped identifier column: 'Student_ID' 
+2026-11-13 06:54:38 | clean_data | INFO  Standardized text casing on 2 categorical columns 
+2026-11-13 06:54:38 | clean_data | INFO  Replaced 2 impossible values (Social Media > Screen Time) with NaN 
+2026-11-13 06:54:38 | clean_data | INFO  Dropped identifier column: 'Student_ID' 
+2026-11-13 06:54:38 | clean_data | INFO  Standardized text casing on 2 categorical columns 
+2026-11-13 06:54:38 | clean_data | INFO  Replaced 2 impossible values (Social Media > Screen Time) with NaN 
+2026-11-13 06:54:38 | clean_data | INFO  Dropped identifier column: 'Student_ID' 
+2026-11-13 06:54:38 | clean_data | INFO  Standardized text casing on 2 categorical columns 
+2026-11-13 06:54:38 | clean_data | INFO  Replaced 2 impossible values (Social Media > Screen Time) with NaN 
+2026-11-13 06:54:38 | clean_data | INFO  Dropped identifier column: 'Student_ID' 
+2026-11-13 06:54:38 | clean_data | INFO  Standardized text casing on 2 categorical columns 
+2026-11-13 06:54:38 | clean_data | INFO  Replaced 2 impossible values (Social Media > Screen Time) with NaN 
+2026-11-13 06:55:31 | clean_data | INFO  Dropped identifier column: 'Student_ID' 
+2026-11-13 06:55:31 | clean_data | INFO  Standardized text casing on 2 categorical columns 
+2026-11-13 06:55:31 | clean_data | INFO  Replaced 2 impossible values (Social Media > Screen Time) with NaN 
+2026-11-13 06:55:31 | clean_data | INFO  Dropped identifier column: 'Student_ID' 
+2026-11-13 06:55:31 | clean_data | INFO  Standardized text casing on 2 categorical columns 
+2026-11-13 06:55:31 | clean_data | INFO  Replaced 2 impossible values (Social Media > Screen Time) with NaN 
+2026-11-13 06:55:31 | clean_data | INFO  Dropped identifier column: 'Student_ID' 
+2026-11-13 06:55:31 | clean_data | INFO  Standardized text casing on 2 categorical columns 
+2026-11-13 06:55:31 | clean_data | INFO  Replaced 2 impossible values (Social Media > Screen Time) with NaN 
+2026-11-13 06:55:31 | clean_data | INFO  Dropped identifier column: 'Student_ID' 
+2026-11-13 06:55:31 | clean_data | INFO  Standardized text casing on 2 categorical columns 
+2026-11-13 06:55:31 | clean_data | INFO  Replaced 2 impossible values (Social Media > Screen Time) with NaN 
+2026-11-13 19:56:17 | clean_data | INFO  Dropped identifier column: 'Student_ID' 
+2026-11-13 19:56:17 | clean_data | INFO  Standardized text casing on 2 categorical columns 
+2026-11-13 19:56:17 | clean_data | INFO  Replaced 2 impossible values (Social Media > Screen Time) with NaN 
+2026-11-13 19:56:17 | clean_data | INFO  Dropped identifier column: 'Student_ID' 
+2026-11-13 19:56:17 | clean_data | INFO  Standardized text casing on 2 categorical columns 
+2026-11-13 19:56:17 | clean_data | INFO  Replaced 2 impossible values (Social Media > Screen Time) with NaN 
+2026-11-13 19:56:17 | clean_data | INFO  Dropped identifier column: 'Student_ID' 
+2026-11-13 19:56:17 | clean_data | INFO  Standardized text casing on 2 categorical columns 
+2026-11-13 19:56:17 | clean_data | INFO  Replaced 2 impossible values (Social Media > Screen Time) with NaN 
+2026-11-13 19:56:17 | clean_data | INFO  Dropped identifier column: 'Student_ID' 
+2026-11-13 19:56:17 | clean_data | INFO  Standardized text casing on 2 categorical columns 
+2026-11-13 19:56:17 | clean_data | INFO  Replaced 2 impossible values (Social Media > Screen Time) with NaN 
+2026-11-13 19:56:28 | data_loader | INFO  raw data loaded successfully 
+2026-11-13 22:33:53 | clean_data | INFO  Dropped identifier column: 'Student_ID' 
+2026-11-13 22:33:53 | clean_data | INFO  Standardized text casing on 2 categorical columns 
+2026-11-13 22:33:53 | clean_data | INFO  Replaced 2 impossible values (Social Media > Screen Time) with NaN 
+2026-11-13 22:33:53 | clean_data | INFO  Dropped identifier column: 'Student_ID' 
+2026-11-13 22:33:53 | clean_data | INFO  Standardized text casing on 2 categorical columns 
+2026-11-13 22:33:53 | clean_data | INFO  Replaced 2 impossible values (Social Media > Screen Time) with NaN 
+2026-11-13 22:33:53 | clean_data | INFO  Dropped identifier column: 'Student_ID' 
+2026-11-13 22:33:53 | clean_data | INFO  Standardized text casing on 2 categorical columns 
+2026-11-13 22:33:53 | clean_data | INFO  Replaced 2 impossible values (Social Media > Screen Time) with NaN 
+2026-11-13 22:33:53 | clean_data | INFO  Dropped identifier column: 'Student_ID' 
+2026-11-13 22:33:53 | clean_data | INFO  Standardized text casing on 2 categorical columns 
+2026-11-13 22:33:53 | clean_data | INFO  Replaced 2 impossible values (Social Media > Screen Time) with NaN 
+2026-11-13 22:36:42 | clean_data | INFO  Dropped identifier column: 'Student_ID' 
+2026-11-13 22:36:42 | clean_data | INFO  Standardized text casing on 2 categorical columns 
+2026-11-13 22:36:42 | clean_data | INFO  Replaced 2 impossible values (Social Media > Screen Time) with NaN 
+2026-11-13 22:36:42 | clean_data | INFO  Dropped identifier column: 'Student_ID' 
+2026-11-13 22:36:42 | clean_data | INFO  Standardized text casing on 2 categorical columns 
+2026-11-13 22:36:42 | clean_data | INFO  Replaced 2 impossible values (Social Media > Screen Time) with NaN 
+2026-11-13 22:36:42 | clean_data | INFO  Dropped identifier column: 'Student_ID' 
+2026-11-13 22:36:42 | clean_data | INFO  Standardized text casing on 2 categorical columns 
+2026-11-13 22:36:42 | clean_data | INFO  Replaced 2 impossible values (Social Media > Screen Time) with NaN 
+2026-11-13 22:36:42 | clean_data | INFO  Dropped identifier column: 'Student_ID' 
+2026-11-13 22:36:42 | clean_data | INFO  Standardized text casing on 2 categorical columns 
+2026-11-13 22:36:42 | clean_data | INFO  Replaced 2 impossible values (Social Media > Screen Time) with NaN 
