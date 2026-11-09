@@ -1,0 +1,41 @@
+services:
+  postgres:
+    image: postgres:16
+    environment:
+      POSTGRES_USER: airflow
+      POSTGRES_PASSWORD: airflow
+      POSTGRES_DB: airflow
+    volumes:
+      - pg_data:/var/lib/postgresql/data
+
+  airflow:
+    build: ./docker/airflow
+    depends_on:
+      - postgres
+    environment:
+      AIRFLOW__CORE__EXECUTOR: LocalExecutor
+      AIRFLOW__DATABASE__SQL_ALCHEMY_CONN: postgresql+psycopg2://airflow:airflow@postgres/airflow
+      PYTHONPATH: /opt/airflow
+    ports:
+      - "8080:8080"
+    volumes:
+      - ./dags:/opt/airflow/dags
+      - ./src:/opt/airflow/src
+      - ./data:/opt/airflow/data
+      - ./models:/opt/airflow/models
+      - ./reports:/opt/airflow/reports
+      - ./airflow_logs:/opt/airflow/logs
+
+  streamlit:
+    build: ./docker/streamlit
+    ports:
+      - "8501:8501"
+    volumes:
+      - ./app:/app/app
+      - ./src:/app/src
+      - ./models:/app/models:ro
+      - ./reports:/app/reports:ro
+
+volumes:
+  pg_data:
+

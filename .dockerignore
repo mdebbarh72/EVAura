@@ -1,0 +1,15 @@
+.git
+.gitignore
+README.md
+notebooks/
+tests/
+docs/
+airflow_logs/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+.venv/
+
